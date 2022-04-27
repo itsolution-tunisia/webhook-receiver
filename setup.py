@@ -13,9 +13,9 @@ setup(
     description='edX Webhooks: a webhook processor interfacing with Open edX',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/hastexo/webhook-receiver',
-    author='hastexo',
-    author_email='pypi@hastexo.com',
+    url='https://github.com/itsolution-tunisia/webhook-receiver',
+    author='itsolution-tunisia',
+    author_email='commertial@itsolution-tn.com',
     license='AGPL-3.0',
     classifiers=[
         'Development Status :: 3 - Alpha',
